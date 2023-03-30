@@ -3,7 +3,11 @@ public class Person {
     public static void main(String[] args) {
 
         System.out.println("HEllo GIT!");
-        int a =3;
+        int asd = 345;
+        int a =3778;
+
+
+        String ab = "lol";
     }
 
 }
