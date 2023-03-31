@@ -4,6 +4,8 @@ public class Dog {
         System.out.println("jestem piesem w mainie");
         System.out.println("jestem piesem w mainie");
         System.out.println("jestem piesem w mainie");
+        System.out.println("jestem piesem w mainie");
+        System.out.println("jestem piesem w mainie");
     }
 
 
