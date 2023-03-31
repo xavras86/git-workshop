@@ -6,6 +6,7 @@ public class Dog {
         System.out.println("jestem piesem");
         System.out.println("jestem piesem");
         System.out.println("jestem piesem");
+        String elo = "eloszka";
     }
 
 
