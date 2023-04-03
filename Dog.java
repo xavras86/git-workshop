@@ -11,6 +11,8 @@ public class Dog {
         System.out.println("jestem piesem");
         System.out.println("jestem piesem");
         System.out.println("jestem piesem");
+        System.out.println("jestem piesem34");
+        System.out.println("jestem piesem65");
         String elo = "eloszka";
     }
 
